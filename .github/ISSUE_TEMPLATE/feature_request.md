@@ -4,6 +4,7 @@ about: Suggest a new feature or improvment.
 title: "Feature: [Brief Description]"
 labels: enhancement
 assignees: ''
+status: todo
 
 ---
 ## ❓ Why is this important?
