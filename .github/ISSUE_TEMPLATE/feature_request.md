@@ -6,14 +6,6 @@ labels: enhancement
 assignees: ''
 
 ---
-
-## 📝 Description
-
-<!--
-Provide a clear and concise description of what the issue does.
-Explain the functionality or behavior that you are proposing.
--->
-
 ## ❓ Why is this important?
 
 <!--
